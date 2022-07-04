@@ -17,32 +17,28 @@ namespace LinqPractises.DbOperations
                 context.Students.AddRange(
                     new Student()
                     {
-                        StudentId = 1,
-                        Name = "Ali",
+                        Name = "Ahmet",
                         Surname = "Veli",
                         ClassId = 4
                     },
                     new Student()
                     {
-                        StudentId = 2,
                         Name = "Fatma",
                         Surname = "Matma",
                         ClassId = 3
                     },
                     new Student()
                     {
-                        StudentId = 3,
                         Name = "Ahmet",
                         Surname = "Korkmaz",
                         ClassId = 7
                     },
                      new Student()
-                    {
-                        StudentId = 4,
-                        Name = "Veli",
-                        Surname = "Korkmaz",
-                        ClassId = 1
-                    }
+                     {
+                         Name = "Ali",
+                         Surname = "Korkmaz",
+                         ClassId = 7
+                     }
                 );
                 context.SaveChanges();
 
