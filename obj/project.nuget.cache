@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNvEjJc0/EOWYo4jTsccKm1dehUMyfua9PDjCtKfq1+vLprdryiqa07oqdxIod9Ny+NtMlqd6PPUEZ6Az1VSvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hhuse\\Desktop\\Programlama-Diğer\\.netCore\\LinqPractises\\LinqPractises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0-preview.5.22302.2\\microsoft.entityframeworkcore.inmemory.7.0.0-preview.5.22302.2.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.5.22301.12\\microsoft.extensions.caching.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.5.22301.12\\microsoft.extensions.caching.memory.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.5.22301.12\\microsoft.extensions.dependencyinjection.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.5.22301.12\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.5.22301.12\\microsoft.extensions.logging.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.5.22301.12\\microsoft.extensions.logging.abstractions.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.5.22301.12\\microsoft.extensions.options.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.5.22301.12\\microsoft.extensions.primitives.7.0.0-preview.5.22301.12.nupkg.sha512",
+    "C:\\Users\\hhuse\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
