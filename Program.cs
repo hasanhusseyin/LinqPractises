@@ -47,11 +47,11 @@ foreach (var st in students)
 Console.WriteLine();
 Console.WriteLine("**** Anonymous Object Result ****");
 var anonymousObject = _context.Students
-                     .Where(x => x.ClassId == 2)
+                     .Where(x => x.ClassId == 7)
                      .Select(x => new
                      {
                          Id = x.StudentId,
                          FullName = x.Name + " " + x.Surname
                      });
 foreach (var obj in anonymousObject)
-    Console.WriteLine(obj.Id + "" + obj.FullName);
+    Console.WriteLine(obj.Id + " - " + obj.FullName);
